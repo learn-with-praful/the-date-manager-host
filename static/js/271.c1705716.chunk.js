@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkthe_date_manager=self.webpackChunkthe_date_manager||[]).push([[271],{4271:function(e,n,r){r.r(n),r.d(n,{default:function(){return u}});var t=r(1889),a=r(843),s=(r(2791),r(184));function u(){return(0,s.jsx)(a.Z,{children:(0,s.jsx)(t.ZP,{children:(0,s.jsx)(t.ZP,{children:"Forgot Password"})})})}}}]);
+//# sourceMappingURL=271.c1705716.chunk.js.map
