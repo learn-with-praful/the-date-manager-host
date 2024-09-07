@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Date Keeper",
+  "name": "Date Keeper",
+  "description": "Never Forget an Important Date Again",
   "icons": [
     {
       "src": "favicon.ico",
@@ -16,10 +17,24 @@
       "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon512_rounded.png",
+      "type": "image/png"
     }
   ],
+  "theme_color": "#ffe435",
+  "background_color": "#ffffff",
   "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "lang": "en-US",
+  "dir": "auto",
+  "display": "standalone"
 }
