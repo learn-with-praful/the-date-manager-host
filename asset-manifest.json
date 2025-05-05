@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.94a1fceb.css",
-    "main.js": "/static/js/main.c7bfde7b.js",
-    "static/js/411.b2c7aee3.chunk.js": "/static/js/411.b2c7aee3.chunk.js",
-    "static/js/447.9bfe12ba.chunk.js": "/static/js/447.9bfe12ba.chunk.js",
-    "static/js/784.1dea3117.chunk.js": "/static/js/784.1dea3117.chunk.js",
-    "static/js/822.4201ae7b.chunk.js": "/static/js/822.4201ae7b.chunk.js",
-    "static/js/712.524d3d06.chunk.js": "/static/js/712.524d3d06.chunk.js",
-    "static/js/271.acf3ae41.chunk.js": "/static/js/271.acf3ae41.chunk.js",
-    "static/js/291.0cab5625.chunk.js": "/static/js/291.0cab5625.chunk.js",
-    "static/js/235.f1dc2153.chunk.js": "/static/js/235.f1dc2153.chunk.js",
-    "static/js/787.f32f3371.chunk.js": "/static/js/787.f32f3371.chunk.js",
-    "static/js/489.4a568659.chunk.js": "/static/js/489.4a568659.chunk.js",
+    "main.css": "/static/css/main.a70ec388.css",
+    "main.js": "/static/js/main.9f23f0c6.js",
+    "static/js/977.073e2ea1.chunk.js": "/static/js/977.073e2ea1.chunk.js",
+    "static/js/822.ec2d822b.chunk.js": "/static/js/822.ec2d822b.chunk.js",
+    "static/js/382.d159dc80.chunk.js": "/static/js/382.d159dc80.chunk.js",
+    "static/js/406.9ca1332d.chunk.js": "/static/js/406.9ca1332d.chunk.js",
+    "static/js/242.dca82dcc.chunk.js": "/static/js/242.dca82dcc.chunk.js",
+    "static/js/507.36fce211.chunk.js": "/static/js/507.36fce211.chunk.js",
+    "static/js/514.98d2dc04.chunk.js": "/static/js/514.98d2dc04.chunk.js",
+    "static/js/707.abec96f8.chunk.js": "/static/js/707.abec96f8.chunk.js",
+    "static/js/27.f7e3a292.chunk.js": "/static/js/27.f7e3a292.chunk.js",
+    "static/js/216.6914cb0b.chunk.js": "/static/js/216.6914cb0b.chunk.js",
     "static/media/AnniversaryIcon.svg": "/static/media/AnniversaryIcon.ddb61aa473b84f0f9e4b5350c5397c61.svg",
     "static/media/BirthdayCake.svg": "/static/media/BirthdayCake.7b170d51b118392c9b4baf2b5d35a9d3.svg",
     "static/media/PushNotificationIcon.svg": "/static/media/PushNotificationIcon.c49eb9f7d4d8770061c41a0af6a00eaf.svg",
@@ -23,22 +23,10 @@
     "static/media/MainNotificationIcon.svg": "/static/media/MainNotificationIcon.af6b31e018cf1be28110b71f73d6fcc1.svg",
     "static/media/CircleAddIcon.svg": "/static/media/CircleAddIcon.bd482c49a9fd9149d5bdb3e12dffa00b.svg",
     "static/media/PencilIcon.svg": "/static/media/PencilIcon.372afeef6dabe83ca7c62bff9e163952.svg",
-    "static/media/UncheckedCheckbox.svg": "/static/media/UncheckedCheckbox.6e60243dce95d1af7093520902a78bc0.svg",
-    "main.94a1fceb.css.map": "/static/css/main.94a1fceb.css.map",
-    "main.c7bfde7b.js.map": "/static/js/main.c7bfde7b.js.map",
-    "411.b2c7aee3.chunk.js.map": "/static/js/411.b2c7aee3.chunk.js.map",
-    "447.9bfe12ba.chunk.js.map": "/static/js/447.9bfe12ba.chunk.js.map",
-    "784.1dea3117.chunk.js.map": "/static/js/784.1dea3117.chunk.js.map",
-    "822.4201ae7b.chunk.js.map": "/static/js/822.4201ae7b.chunk.js.map",
-    "712.524d3d06.chunk.js.map": "/static/js/712.524d3d06.chunk.js.map",
-    "271.acf3ae41.chunk.js.map": "/static/js/271.acf3ae41.chunk.js.map",
-    "291.0cab5625.chunk.js.map": "/static/js/291.0cab5625.chunk.js.map",
-    "235.f1dc2153.chunk.js.map": "/static/js/235.f1dc2153.chunk.js.map",
-    "787.f32f3371.chunk.js.map": "/static/js/787.f32f3371.chunk.js.map",
-    "489.4a568659.chunk.js.map": "/static/js/489.4a568659.chunk.js.map"
+    "static/media/UncheckedCheckbox.svg": "/static/media/UncheckedCheckbox.6e60243dce95d1af7093520902a78bc0.svg"
   },
   "entrypoints": [
-    "static/css/main.94a1fceb.css",
-    "static/js/main.c7bfde7b.js"
+    "static/css/main.a70ec388.css",
+    "static/js/main.9f23f0c6.js"
   ]
 }
